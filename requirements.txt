@@ -1,0 +1,7 @@
+mss
+opencv-python
+numpy
+pytesseract
+pyperclip
+Pillow
+keyboard
